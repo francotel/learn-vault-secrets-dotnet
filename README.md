@@ -21,7 +21,7 @@ For complete instructions, visit the following links:
 
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Docker](https://docs.docker.com/get-docker/)
-- [.NET 5.0+](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [.NET 8.0+](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [VaultSharp](https://github.com/rajanadar/VaultSharp)
 
 ## Demo Script Guide
